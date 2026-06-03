@@ -1,6 +1,6 @@
 # MAIA
-Arquitectura del ser de una identidad artificial persistente
 Teoría Cognitiva del Sistema Maia
+
 Arquitectura del ser de una identidad artificial persistente
 Tratado conceptual · Pak (MAIAM) · Junio de 2026
 ---
